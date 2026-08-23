@@ -1,0 +1,6 @@
+{
+  "name": "HeatSafe",
+  "description": "Smart heat health and safety advisor with real-time heat conditions, risk levels, AI personalized recommendations, hydration reminders, safe outdoor hours, and emergency guidance.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
